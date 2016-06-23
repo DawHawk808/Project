@@ -1,0 +1,19 @@
+div {
+	color: green;
+	height:	53000px;
+	width: 1500px;
+	margin-bottom:500px;
+	background-color: green;
+	
+}
+
+#Text{
+	text-align:center;
+}
+
+#circlearea{
+	border-radius: 500px
+	color: black;
+	align-items: top;
+	margin: 5000px;
+}
