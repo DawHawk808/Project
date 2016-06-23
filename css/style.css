@@ -1,7 +1,7 @@
-div {
+#Work {
 	color: green;
-	height:	53000px;
-	width: 1500px;
+	height:	500px;
+	width: 1350px;
 	margin-bottom:500px;
 	background-color: green;
 	
@@ -9,11 +9,31 @@ div {
 
 #Text{
 	text-align:center;
+	color: black;
 }
 
-#circlearea{
-	border-radius: 500px
-	color: black;
-	align-items: top;
-	margin: 5000px;
+#circle1{
+	margin-left: 425px;	
+	height:100px;
+	width: 100px;
+	background-color: white;
+	border-radius: 100px;
 }
+
+#circle2{
+	margin-left: 200px;
+	height:100px;
+	width: 100px;
+	background-color: white;
+	border-radius: 100px;
+}
+
+#circle3{
+	margin-left: 200px;	
+	height:100px;
+	width: 100px;
+	background-color: white;
+	border-radius: 100px;
+}
+
+#img
